@@ -524,5 +524,5 @@ textarea.input { resize: vertical; }
   .role-example, .guide, .checker, .premium-band { grid-template-columns: 1fr; }
   .toc { position: static; }
   .footer-grid { grid-template-columns: repeat(2, 1fr); }
-  .feature-grid.three { grid-template-columns: repeat(2, 1fr); }
+  .feature-grid.three { grid-template-columns: repeat(1, 1fr); }
 }
