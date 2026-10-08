@@ -1,0 +1,2 @@
+# Netlify / Cloudflare Pages: dynamic builder URLs use the blank shell
+/builder/*  /200.html  200
